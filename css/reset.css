@@ -1,0 +1,338 @@
+@charset "UTF-8";
+@font-face {
+  font-family: NotoSansKR;
+  src: url("../font/NotoSansKR-Black.otf") format("opentype");
+  font-weight: 900;
+}
+@font-face {
+  font-family: NotoSansKR;
+  src: url("../font/NotoSansKR-Bold.otf") format("opentype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: NotoSansKR;
+  src: url("../font/NotoSansKR-Medium.otf") format("opentype");
+  font-weight: 500;
+}
+@font-face {
+  font-family: NotoSansKR;
+  src: url("../font/NotoSansKR-Regular.otf") format("opentype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: NotoSansKR;
+  src: url("../font/NotoSansKR-Light.otf") format("opentype");
+  font-weight: 300;
+}
+@font-face {
+  font-family: NotoSansKR;
+  src: url("../font/NotoSansKR-Thin.otf") format("opentype");
+  font-weight: 100;
+}
+@font-face {
+  font-family: Roboto;
+  src: url("../font/Roboto-Black.ttf") format("truetype");
+  font-weight: 900;
+}
+@font-face {
+  font-family: Roboto;
+  src: url("../font/Roboto-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: Roboto;
+  src: url("../font/Roboto-Medium.ttf") format("truetype");
+  font-weight: 500;
+}
+@font-face {
+  font-family: Roboto;
+  src: url("../font/Roboto-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: Roboto;
+  src: url("../font/Roboto-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+@font-face {
+  font-family: Roboto;
+  src: url("../font/Roboto-Thin.ttf") format("truetype");
+  font-weight: 100;
+}
+/* reset */
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  color: #333;
+  font-family: NotoSansKR, sans-serif;
+  font-size: 62.5%;
+  word-break: break-all;
+  font-weight: 400;
+}
+
+/* html {-webkit-text-size-adjust: 100%;} */
+body {
+  -webkit-text-size-adjust: none;
+  line-height: 1.5;
+  letter-spacing: -1px;
+}
+
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+textarea,
+p,
+blockquote,
+th,
+td,
+input,
+select,
+textarea,
+button,
+figure,
+figcaption {
+  margin: 0;
+  padding: 0;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+}
+
+fieldset,
+img {
+  border: 0 none;
+  vertical-align: middle;
+}
+
+dl,
+ul,
+ol,
+menu,
+li {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+input,
+select,
+textarea,
+button {
+  vertical-align: middle;
+}
+
+button {
+  border: 0 none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+input[type=text],
+input[type=password],
+input[type=submit],
+input[type=search],
+input[type=number],
+input[type=tel],
+input[type=email] {
+  -webkit-appearance: none;
+}
+
+input:checked[type=checkbox] {
+  background-color: #666;
+  -webkit-appearance: checkbox;
+}
+
+button,
+input {
+  overflow: visible;
+}
+
+button,
+[type=button],
+[type=submit],
+[type=reset],
+[type=file] {
+  -webkit-appearance: button;
+  border-radius: 0;
+}
+
+/* input[type='search']::-webkit-search-cancel-button {-webkit-appearance:none} */
+button {
+  font-size: 100%;
+}
+
+body,
+input,
+select,
+textarea,
+button,
+pre {
+  letter-spacing: -0.4px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+var {
+  font-style: normal;
+}
+
+caption {
+  display: none;
+}
+
+select {
+  -webkit-appearance: none;
+  border: 1px solid #d7d7d7;
+  font-family: inherit;
+}
+
+b,
+strong {
+  font-weight: 700;
+}
+
+i {
+  font-style: normal;
+}
+
+textarea {
+  overflow: auto;
+  border: 1px solid #d7d7d7;
+  background: #fff;
+  -webkit-appearance: none;
+  border-radius: 2px;
+}
+
+::-webkit-input-placeholder {
+  vertical-align: middle;
+  color: #bbb !important;
+  font-weight: 400;
+}
+
+:-webkit-input-placeholder {
+  vertical-align: middle;
+  color: #bbb !important;
+  font-weight: 400;
+}
+
+::-moz-placeholder {
+  vertical-align: middle;
+  color: #bbb !important;
+  font-weight: 400;
+}
+
+:-moz-placeholder {
+  vertical-align: middle;
+  color: #bbb !important;
+  font-weight: 400;
+}
+
+:-ms-input-placeholder {
+  vertical-align: middle;
+  color: #bbb !important;
+  font-weight: 400;
+}
+
+/* 스크롤바 */
+.scroll-y,
+.scroll,
+body {
+  /* 세로 스크롤 overlay 처리 */
+  overflow: overlay;
+  /* 스크롤바의 box-shadow 색상값을 지정 */
+  color: #c6c6c6;
+  transition: all 0.4s ease; /* 부드러운 애니메이션 */
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+  outline: none;
+  border-radius: 10px;
+  border: 3px solid transparent;
+  /* box-shadow 색상은 지정 안했을 경우 기본적으로 color 값을 따라감 */
+  box-shadow: inset 6px 7px 0;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: none;
+  background-color: transparent;
+}
+
+.scroll-y::-webkit-scrollbar {
+  width: 16px;
+  height: 12px;
+}
+
+.scroll-y::-webkit-scrollbar-thumb {
+  outline: none;
+  border-radius: 10px;
+  border: 5px solid transparent;
+  /* box-shadow 색상은 지정 안했을 경우 기본적으로 color 값을 따라감 */
+  box-shadow: inset 7px 7px 0;
+}

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #406eff;
+      }
+
+      .cls-2 {
+        fill: #32c192;
+        opacity: 0;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="icon_arrow_off" transform="translate(-245 -147)">
+    <g id="타원_584" data-name="타원 584" class="cls-1" transform="translate(245 147)">
+      <circle class="cls-4" cx="17.5" cy="17.5" r="17.5"/>
+      <circle class="cls-5" cx="17.5" cy="17.5" r="17"/>
+    </g>
+    <g id="icon_next" transform="translate(274.098 152.951) rotate(90)">
+      <rect id="사각형_197" data-name="사각형 197" class="cls-2" width="23.098" height="23.098" transform="translate(0.049)"/>
+      <path id="패스_109" data-name="패스 109" class="cls-3" d="M0,12.992,7.218,6.5,0,0" transform="translate(8.549 4.83)"/>
+    </g>
+  </g>
+</svg>

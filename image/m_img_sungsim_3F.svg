@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="550" viewBox="0 0 610 550">
+  <g id="그룹_24895" data-name="그룹 24895" transform="translate(15302 2805)">
+    <g id="m_img_sungsim_3F" transform="translate(-1399 428)">
+      <rect id="사각형_20277" data-name="사각형 20277" width="610" height="550" transform="translate(-13903 -3233)" fill="#f5f6f9"/>
+      <rect id="사각형_20278" data-name="사각형 20278" width="610" height="12" transform="translate(-13903 -3233)" fill="#e0e6f1"/>
+      <rect id="사각형_20295" data-name="사각형 20295" width="610" height="12" transform="translate(-13903 -2695)" fill="#e0e6f1"/>
+      <rect id="사각형_20285" data-name="사각형 20285" width="550" height="10" transform="translate(-13903 -2683) rotate(-90)" fill="#e0e6f1"/>
+      <rect id="사각형_20294" data-name="사각형 20294" width="550" height="10" transform="translate(-13303 -2683) rotate(-90)" fill="#e0e6f1"/>
+      <rect id="사각형_20296" data-name="사각형 20296" width="108" height="80" transform="translate(-13411 -3029)" fill="#e0e6f1"/>
+      <rect id="사각형_20300" data-name="사각형 20300" width="103" height="108" transform="translate(-13594 -2901)" fill="#e0e6f1"/>
+      <rect id="사각형_20299" data-name="사각형 20299" width="60" height="60" transform="translate(-13481 -2853)" fill="#e0e6f1"/>
+      <rect id="사각형_20301" data-name="사각형 20301" width="60" height="80" transform="translate(-13481 -2775)" fill="#e0e6f1"/>
+      <rect id="사각형_20302" data-name="사각형 20302" width="60" height="80" transform="translate(-13551 -2775)" fill="#e0e6f1"/>
+      <rect id="사각형_20298" data-name="사각형 20298" width="108" height="80" transform="translate(-13411 -2775)" fill="#e0e6f1"/>
+      <rect id="사각형_20297" data-name="사각형 20297" width="108" height="146" transform="translate(-13411 -2939)" fill="#e0e6f1"/>
+      <g id="출입구" transform="translate(334 -8)">
+        <g id="그룹_24888" data-name="그룹 24888" transform="translate(-14060.21 -2778.771)">
+          <path id="패스_1" data-name="패스 1" d="M20.423,0,17.807,2.615,0,20.422H5.016L20.423,5.231,35.614,20.422h5.233L23.038,2.615Z" transform="translate(0 0)" fill="#e0e6f1" stroke="#e0e6f1" stroke-width="1"/>
+          <path id="패스_2" data-name="패스 2" d="M0,140.179H5.016l15.406-15.191,15.191,15.191h5.233L23.038,122.372l-2.616-2.616Z" transform="translate(0 -106.337)" fill="#e0e6f1" stroke="#e0e6f1" stroke-width="1"/>
+          <path id="패스_3" data-name="패스 3" d="M0,260.021H5.016L20.422,244.83l15.191,15.191h5.233L23.038,242.215,20.422,239.6Z" transform="translate(0 -212.75)" fill="#e0e6f1" stroke="#e0e6f1" stroke-width="1"/>
+        </g>
+        <rect id="사각형_20303" data-name="사각형 20303" width="50" height="60" transform="translate(-14065 -2785)" fill="none"/>
+      </g>
+      <text id="출입구-2" data-name="출입구" transform="translate(-13706 -2711)" fill="#c7d0e2" font-size="14" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.025em"><tspan x="-18.97" y="0">출입구</tspan></text>
+      <text id="회의실_302" data-name="회의실
+302" transform="translate(-13542 -2851)" fill="#c7d0e2" font-size="14" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.025em"><tspan x="-18.97" y="0">회의실</tspan><tspan x="-11.305" y="20">302</tspan></text>
+      <text id="회의실_301" data-name="회의실
+301" transform="translate(-13357 -2993)" fill="#c7d0e2" font-size="14" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.025em"><tspan x="-18.97" y="0">회의실</tspan><tspan x="-11.305" y="20">301</tspan></text>
+      <text id="회의실_303" data-name="회의실
+303" transform="translate(-13357 -2739)" fill="#c7d0e2" font-size="14" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.025em"><tspan x="-18.97" y="0">회의실</tspan><tspan x="-11.305" y="20">303</tspan></text>
+      <text id="남자_화장실" data-name="남자
+화장실" transform="translate(-13451 -2738)" fill="#c7d0e2" font-size="14" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.025em"><tspan x="-12.705" y="0">남자</tspan><tspan x="-18.97" y="20">화장실</tspan></text>
+      <text id="IT_서비스" data-name="IT
+서비스" transform="translate(-13451 -2827)" fill="#c7d0e2" font-size="14" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.025em"><tspan x="-6.069" y="0">IT</tspan><tspan x="-18.97" y="20">서비스</tspan></text>
+      <text id="탕비실" transform="translate(-13357 -2860)" fill="#c7d0e2" font-size="14" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.025em"><tspan x="-18.97" y="0">탕비실</tspan></text>
+      <text id="여자_화장실" data-name="여자
+화장실" transform="translate(-13521 -2738)" fill="#c7d0e2" font-size="14" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.025em"><tspan x="-12.705" y="0">여자</tspan><tspan x="-18.97" y="20">화장실</tspan></text>
+    </g>
+  </g>
+</svg>

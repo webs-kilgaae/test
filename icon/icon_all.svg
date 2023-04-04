@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #333d4b;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="icon_all" transform="translate(-925 -242)">
+    <rect id="사각형_20074" data-name="사각형 20074" class="cls-1" width="36" height="36" rx="5" transform="translate(925 242)"/>
+    <g id="그룹_24805" data-name="그룹 24805" transform="translate(278.622 -132.498)">
+      <rect id="사각형_20151" data-name="사각형 20151" class="cls-2" width="19.785" height="13.426" rx="1" transform="translate(654.485 384.026)"/>
+      <line id="선_369" data-name="선 369" class="cls-2" x2="9.415" transform="translate(659.67 400.97)"/>
+      <line id="선_370" data-name="선 370" class="cls-2" x2="19.785" transform="translate(654.485 395.125)"/>
+      <line id="선_371" data-name="선 371" class="cls-2" y2="3.518" transform="translate(662.081 397.451)"/>
+      <line id="선_372" data-name="선 372" class="cls-2" y2="3.401" transform="translate(666.674 397.51)"/>
+    </g>
+  </g>
+</svg>

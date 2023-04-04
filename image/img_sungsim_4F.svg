@@ -1,0 +1,370 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1480" height="890" viewBox="0 0 1480 890">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #e0e6f1;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #e0e6f1;
+      }
+
+      .cls-1 {
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        fill: #c7d0e2;
+        font-size: 18px;
+        font-family: NotoSansCJKkr-Regular, Noto Sans CJK KR;
+        letter-spacing: -0.025em;
+      }
+
+      .cls-5 {
+        font-size: 16px;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-4);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="사각형_20048" data-name="사각형 20048" class="cls-1" width="167" height="123"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="사각형_20048-2" data-name="사각형 20048" class="cls-1" width="140" height="104"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="사각형_20049" data-name="사각형 20049" class="cls-1" width="113.747" height="66.288" transform="translate(-8 -5)"/>
+    </clipPath>
+  </defs>
+  <g id="img_sungsim_4F" transform="translate(-390 -260)">
+    <rect id="사각형_19890" data-name="사각형 19890" class="cls-2" width="1479" height="10" transform="translate(390 260)"/>
+    <rect id="사각형_20196" data-name="사각형 20196" class="cls-2" width="110" height="10" transform="translate(660 1012)"/>
+    <rect id="사각형_20211" data-name="사각형 20211" class="cls-2" width="270" height="10" transform="translate(390 1074)"/>
+    <rect id="사각형_20021" data-name="사각형 20021" class="cls-2" width="782" height="10" transform="translate(858 1012)"/>
+    <rect id="사각형_20197" data-name="사각형 20197" class="cls-2" width="180" height="10" transform="translate(1680 470)"/>
+    <rect id="사각형_20207" data-name="사각형 20207" class="cls-2" width="60" height="10" transform="translate(440 416)"/>
+    <rect id="사각형_20198" data-name="사각형 20198" class="cls-2" width="190" height="10" transform="translate(1670 877)"/>
+    <rect id="사각형_20199" data-name="사각형 20199" class="cls-2" width="190" height="10" transform="translate(1670 680)"/>
+    <rect id="사각형_20209" data-name="사각형 20209" class="cls-2" width="190" height="10" transform="translate(1670 800)"/>
+    <rect id="사각형_20004" data-name="사각형 20004" class="cls-2" width="536" height="10" transform="translate(1334 1140)"/>
+    <rect id="사각형_19892" data-name="사각형 19892" class="cls-2" width="890" height="10" transform="translate(1870 260) rotate(90)"/>
+    <rect id="사각형_20018" data-name="사각형 20018" class="cls-2" width="87" height="10" transform="translate(1344 1063) rotate(90)"/>
+    <rect id="사각형_20208" data-name="사각형 20208" class="cls-2" width="102" height="10" transform="translate(1436 1063) rotate(180)"/>
+    <rect id="사각형_20020" data-name="사각형 20020" class="cls-2" width="90" height="10" transform="translate(1486 1052) rotate(90)"/>
+    <rect id="사각형_20019" data-name="사각형 20019" class="cls-2" width="138" height="10" transform="translate(1640 1012) rotate(90)"/>
+    <rect id="사각형_20203" data-name="사각형 20203" class="cls-2" width="147" height="10" transform="translate(1680 730) rotate(90)"/>
+    <rect id="사각형_20204" data-name="사각형 20204" class="cls-2" width="165" height="10" transform="translate(1680 470) rotate(90)"/>
+    <rect id="사각형_20205" data-name="사각형 20205" class="cls-2" width="166" height="10" transform="translate(1680 270) rotate(90)"/>
+    <rect id="사각형_20206" data-name="사각형 20206" class="cls-2" width="156" height="10" transform="translate(510 270) rotate(90)"/>
+    <rect id="사각형_19893" data-name="사각형 19893" class="cls-2" width="814" height="10" transform="translate(400 260) rotate(90)"/>
+    <g id="그룹_24385" data-name="그룹 24385" transform="translate(30.43 375.956)">
+      <g id="그룹_24384" data-name="그룹 24384" transform="translate(760.57 636.045)">
+        <path id="패스_1" data-name="패스 1" class="cls-3" d="M23.213,0,20.24,2.973,0,23.212H5.7L23.213,5.946,40.479,23.212h5.948L26.186,2.973Z" transform="translate(0 0)"/>
+        <path id="패스_2" data-name="패스 2" class="cls-3" d="M0,142.969H5.7L23.213,125.7l17.266,17.266h5.948L26.186,122.73l-2.973-2.973Z" transform="translate(0 -104.504)"/>
+        <path id="패스_3" data-name="패스 3" class="cls-3" d="M0,262.811H5.7l17.511-17.266,17.266,17.266h5.948L26.186,242.572,23.213,239.6Z" transform="translate(0 -209.082)"/>
+      </g>
+      <text id="출입구" class="cls-4" transform="translate(783.57 720)"><tspan x="-24.39" y="0">출입구</tspan></text>
+    </g>
+    <g id="dask" transform="translate(530 269)">
+      <rect id="사각형_20022" data-name="사각형 20022" class="cls-2" width="130" height="30" transform="translate(65 49)"/>
+      <rect id="사각형_20024" data-name="사각형 20024" class="cls-2" width="20" height="78" transform="translate(175 1)"/>
+      <rect id="사각형_20210" data-name="사각형 20210" class="cls-2" width="160" height="6" transform="translate(50 73)"/>
+    </g>
+    <g id="dask-2" data-name="dask" transform="translate(810 269)">
+      <rect id="사각형_20022-2" data-name="사각형 20022" class="cls-2" width="130" height="30" transform="translate(65 49)"/>
+      <rect id="사각형_20024-2" data-name="사각형 20024" class="cls-2" width="20" height="78" transform="translate(175 1)"/>
+      <rect id="사각형_20210-2" data-name="사각형 20210" class="cls-2" width="160" height="6" transform="translate(50 73)"/>
+    </g>
+    <g id="dask-3" data-name="dask" transform="translate(1100 269)">
+      <rect id="사각형_20022-3" data-name="사각형 20022" class="cls-2" width="130" height="30" transform="translate(65 49)"/>
+      <rect id="사각형_20024-3" data-name="사각형 20024" class="cls-2" width="20" height="78" transform="translate(175 1)"/>
+      <rect id="사각형_20210-3" data-name="사각형 20210" class="cls-2" width="160" height="6" transform="translate(50 73)"/>
+    </g>
+    <g id="dask-4" data-name="dask" transform="translate(1380 269)">
+      <rect id="사각형_20022-4" data-name="사각형 20022" class="cls-2" width="130" height="30" transform="translate(65 49)"/>
+      <rect id="사각형_20024-4" data-name="사각형 20024" class="cls-2" width="20" height="78" transform="translate(175 1)"/>
+      <rect id="사각형_20210-4" data-name="사각형 20210" class="cls-2" width="160" height="6" transform="translate(50 73)"/>
+    </g>
+    <g id="dask-5" data-name="dask" transform="translate(1380 631)">
+      <rect id="사각형_20022-5" data-name="사각형 20022" class="cls-2" width="130" height="30" transform="translate(65 49)"/>
+      <rect id="사각형_20024-5" data-name="사각형 20024" class="cls-2" width="20" height="78" transform="translate(175 1)"/>
+      <rect id="사각형_20210-5" data-name="사각형 20210" class="cls-2" width="160" height="6" transform="translate(50 73)"/>
+    </g>
+    <g id="dask-6" data-name="dask" transform="translate(1100 631)">
+      <rect id="사각형_20022-6" data-name="사각형 20022" class="cls-2" width="130" height="30" transform="translate(65 49)"/>
+      <rect id="사각형_20024-6" data-name="사각형 20024" class="cls-2" width="20" height="78" transform="translate(175 1)"/>
+      <rect id="사각형_20210-6" data-name="사각형 20210" class="cls-2" width="160" height="6" transform="translate(50 73)"/>
+    </g>
+    <g id="dask-7" data-name="dask" transform="translate(810 631)">
+      <rect id="사각형_20022-7" data-name="사각형 20022" class="cls-2" width="130" height="30" transform="translate(65 49)"/>
+      <rect id="사각형_20024-7" data-name="사각형 20024" class="cls-2" width="20" height="78" transform="translate(175 1)"/>
+      <rect id="사각형_20210-7" data-name="사각형 20210" class="cls-2" width="160" height="6" transform="translate(50 73)"/>
+    </g>
+    <g id="dask-8" data-name="dask" transform="translate(530 631)">
+      <rect id="사각형_20022-8" data-name="사각형 20022" class="cls-2" width="130" height="30" transform="translate(65 49)"/>
+      <rect id="사각형_20024-8" data-name="사각형 20024" class="cls-2" width="20" height="78" transform="translate(175 1)"/>
+      <rect id="사각형_20210-8" data-name="사각형 20210" class="cls-2" width="160" height="6" transform="translate(50 73)"/>
+    </g>
+    <g id="dask-9" data-name="dask" transform="translate(530 348)">
+      <rect id="사각형_20022-9" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-9" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-10" data-name="dask" transform="translate(530 710)">
+      <rect id="사각형_20022-10" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-10" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-11" data-name="dask" transform="translate(810 710)">
+      <rect id="사각형_20022-11" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-11" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-12" data-name="dask" transform="translate(1100 710)">
+      <rect id="사각형_20022-12" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-12" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-13" data-name="dask" transform="translate(1380 710)">
+      <rect id="사각형_20022-13" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-13" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-14" data-name="dask" transform="translate(810 348)">
+      <rect id="사각형_20022-14" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-14" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-15" data-name="dask" transform="translate(1100 348)">
+      <rect id="사각형_20022-15" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-15" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-16" data-name="dask" transform="translate(1380 348)">
+      <rect id="사각형_20022-16" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-16" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-17" data-name="dask" transform="translate(530 426)">
+      <rect id="사각형_20022-17" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-17" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-18" data-name="dask" transform="translate(530 788)">
+      <rect id="사각형_20022-18" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-18" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-19" data-name="dask" transform="translate(810 788)">
+      <rect id="사각형_20022-19" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-19" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-20" data-name="dask" transform="translate(1100 788)">
+      <rect id="사각형_20022-20" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-20" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-21" data-name="dask" transform="translate(1380 788)">
+      <rect id="사각형_20022-21" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-21" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-22" data-name="dask" transform="translate(810 426)">
+      <rect id="사각형_20022-22" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-22" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-23" data-name="dask" transform="translate(1100 426)">
+      <rect id="사각형_20022-23" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-23" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-24" data-name="dask" transform="translate(1380 426)">
+      <rect id="사각형_20022-24" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-24" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-25" data-name="dask" transform="translate(530 504)">
+      <rect id="사각형_20022-25" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-25" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-26" data-name="dask" transform="translate(530 866)">
+      <rect id="사각형_20022-26" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-26" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-27" data-name="dask" transform="translate(400 996)">
+      <rect id="사각형_20022-27" data-name="사각형 20022" class="cls-2" width="115" height="6" transform="translate(15)"/>
+      <rect id="사각형_20024-27" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80 6)"/>
+    </g>
+    <g id="dask-28" data-name="dask" transform="translate(810 866)">
+      <rect id="사각형_20022-28" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-28" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-29" data-name="dask" transform="translate(1100 866)">
+      <rect id="사각형_20022-29" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-29" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-30" data-name="dask" transform="translate(1380 866)">
+      <rect id="사각형_20022-30" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-30" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-31" data-name="dask" transform="translate(810 504)">
+      <rect id="사각형_20022-31" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-31" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-32" data-name="dask" transform="translate(1100 504)">
+      <rect id="사각형_20022-32" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-32" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-33" data-name="dask" transform="translate(1380 504)">
+      <rect id="사각형_20022-33" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-33" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80)"/>
+    </g>
+    <g id="dask-34" data-name="dask" transform="translate(660 348)">
+      <rect id="사각형_20022-34" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-34" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-35" data-name="dask" transform="translate(660 710)">
+      <rect id="사각형_20022-35" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-35" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-36" data-name="dask" transform="translate(940 710)">
+      <rect id="사각형_20022-36" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-36" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-37" data-name="dask" transform="translate(1230 710)">
+      <rect id="사각형_20022-37" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-37" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-38" data-name="dask" transform="translate(1510 710)">
+      <rect id="사각형_20022-38" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-38" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-39" data-name="dask" transform="translate(940 348)">
+      <rect id="사각형_20022-39" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-39" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-40" data-name="dask" transform="translate(1230 348)">
+      <rect id="사각형_20022-40" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-40" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-41" data-name="dask" transform="translate(1510 348)">
+      <rect id="사각형_20022-41" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-41" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-42" data-name="dask" transform="translate(660 426)">
+      <rect id="사각형_20022-42" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-42" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-43" data-name="dask" transform="translate(660 788)">
+      <rect id="사각형_20022-43" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-43" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-44" data-name="dask" transform="translate(940 788)">
+      <rect id="사각형_20022-44" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-44" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-45" data-name="dask" transform="translate(1230 788)">
+      <rect id="사각형_20022-45" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-45" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-46" data-name="dask" transform="translate(1510 788)">
+      <rect id="사각형_20022-46" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-46" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-47" data-name="dask" transform="translate(940 426)">
+      <rect id="사각형_20022-47" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-47" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-48" data-name="dask" transform="translate(1230 426)">
+      <rect id="사각형_20022-48" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-48" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-49" data-name="dask" transform="translate(1510 426)">
+      <rect id="사각형_20022-49" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-49" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-50" data-name="dask" transform="translate(660 504)">
+      <rect id="사각형_20022-50" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-50" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-51" data-name="dask" transform="translate(660 866)">
+      <rect id="사각형_20022-51" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-51" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-52" data-name="dask" transform="translate(530 996)">
+      <rect id="사각형_20022-52" data-name="사각형 20022" class="cls-2" width="115" height="6" transform="translate(15)"/>
+      <rect id="사각형_20024-52" data-name="사각형 20024" class="cls-2" width="50" height="72" transform="translate(80 6)"/>
+    </g>
+    <g id="dask-53" data-name="dask" transform="translate(940 866)">
+      <rect id="사각형_20022-53" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-53" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-54" data-name="dask" transform="translate(1230 866)">
+      <rect id="사각형_20022-54" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-54" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-55" data-name="dask" transform="translate(1510 866)">
+      <rect id="사각형_20022-55" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-55" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-56" data-name="dask" transform="translate(940 504)">
+      <rect id="사각형_20022-56" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-56" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-57" data-name="dask" transform="translate(1230 504)">
+      <rect id="사각형_20022-57" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-57" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <g id="dask-58" data-name="dask" transform="translate(1510 504)">
+      <rect id="사각형_20022-58" data-name="사각형 20022" class="cls-2" width="130" height="6" transform="translate(0 72)"/>
+      <rect id="사각형_20024-58" data-name="사각형 20024" class="cls-2" width="50" height="72"/>
+    </g>
+    <text id="남자_화장실" data-name="남자 화장실" class="cls-4" transform="translate(1560 1114)"><tspan x="-42.291" y="0">남자 화장실</tspan></text>
+    <text id="여자_화장실" data-name="여자 화장실" class="cls-4" transform="translate(1410 1114)"><tspan x="-42.291" y="0">여자 화장실</tspan></text>
+    <text id="회의실_1" data-name="회의실 1" class="cls-4" transform="translate(1770 654)"><tspan x="-30.951" y="0">회의실 1</tspan></text>
+    <text id="창고" class="cls-4" transform="translate(1770 851)"><tspan x="-16.335" y="0">창고</tspan></text>
+    <text id="근로자_휴게실" data-name="근로자 휴게실" class="cls-4" transform="translate(1770 757)"><tspan x="-50.346" y="0">근로자 휴게실</tspan></text>
+    <text id="회의실_2" data-name="회의실 2" class="cls-4" transform="translate(1770 444)"><tspan x="-30.951" y="0">회의실 2</tspan></text>
+    <text id="회의실_Collacoration" data-name="회의실
+Collacoration" class="cls-4" transform="translate(450 338)"><tspan x="-24.39" y="0">회의실</tspan><tspan class="cls-5"><tspan x="-44.787" y="21">Collacoration</tspan></tspan></text>
+    <g id="그룹_24736" data-name="그룹 24736" transform="translate(1694 1126) rotate(-90)">
+      <g id="그룹_24735" data-name="그룹 24735" class="cls-6" transform="translate(-10 -4)">
+        <path id="패스_41532" data-name="패스 41532" class="cls-1" d="M118.279,24.831H24.727A24.634,24.634,0,0,0,0,49.314v5.551A24.634,24.634,0,0,0,24.727,79.347h93.552a24.634,24.634,0,0,0,24.729-24.483V49.314a24.634,24.634,0,0,0-24.729-24.483m24.129,30.034a24.037,24.037,0,0,1-24.129,23.889H24.727A24.036,24.036,0,0,1,.6,54.865V49.314A24.036,24.036,0,0,1,24.727,25.425h93.552a24.037,24.037,0,0,1,24.129,23.889Z" transform="translate(11.996 9.411)"/>
+        <path id="패스_41533" data-name="패스 41533" class="cls-1" d="M19.851,21.7l.449.017h.053a1.387,1.387,0,0,0,.767-.254l-.03.785a3.93,3.93,0,0,0,1.12,2.911A4,4,0,0,0,25.1,26.382h12.3A4,4,0,0,0,40.3,25.163a3.93,3.93,0,0,0,1.122-2.911l-.031-.791a1.384,1.384,0,0,0,.776.26h.053l.45-.017a1.406,1.406,0,0,0,.979-.444,1.373,1.373,0,0,0,.375-1L43.551,7.484a1.4,1.4,0,0,0-1.406-1.34h-.052l-.45.017a1.387,1.387,0,0,0-.827.335l-.008-.223.007-.013.525-4.078A1.927,1.927,0,0,0,40.867.654,1.968,1.968,0,0,0,39.4,0h0L23.119.027a1.966,1.966,0,0,0-1.466.657,1.929,1.929,0,0,0-.471,1.524L21.7,6.267l-.01.221a1.382,1.382,0,0,0-.817-.328l-.45-.017a1.327,1.327,0,0,0-1.009.372,1.386,1.386,0,0,0-.447.968L18.5,20.262a1.371,1.371,0,0,0,.373,1,1.408,1.408,0,0,0,.98.444M41.666,6.754l.449-.017h.03a.8.8,0,0,1,.806.768l.475,12.778a.785.785,0,0,1-.216.572.8.8,0,0,1-.56.254l-.45.017a.777.777,0,0,1-.578-.213.793.793,0,0,1-.257-.556L40.891,7.581a.8.8,0,0,1,.775-.827M22.1,1.076A1.363,1.363,0,0,1,23.119.621L39.4.594h0a1.361,1.361,0,0,1,1.017.454,1.334,1.334,0,0,1,.327,1.058l-.492,3.82-17.984.032-.492-3.824A1.336,1.336,0,0,1,22.1,1.076m.191,5.476H40.219l.6,15.722a3.341,3.341,0,0,1-.954,2.476,3.405,3.405,0,0,1-2.462,1.037H25.1a3.405,3.405,0,0,1-2.462-1.037,3.338,3.338,0,0,1-.954-2.476Zm-2.722.954a.788.788,0,0,1,.257-.556.8.8,0,0,1,.548-.213h.03l.449.017a.8.8,0,0,1,.777.827l-.476,12.778a.793.793,0,0,1-.257.556.773.773,0,0,1-.578.213l-.449-.017a.8.8,0,0,1-.561-.254.787.787,0,0,1-.214-.572Z" transform="translate(15.688 4.751)"/>
+        <path id="패스_41534" data-name="패스 41534" class="cls-1" d="M80.788,21.7l.45.017h.053a1.386,1.386,0,0,0,.777-.261l-.031.792a3.923,3.923,0,0,0,1.12,2.91,4.005,4.005,0,0,0,2.895,1.22h12.3a4.005,4.005,0,0,0,2.895-1.22,3.923,3.923,0,0,0,1.12-2.91l-.031-.785a1.387,1.387,0,0,0,.767.254h.053l.45-.017a1.406,1.406,0,0,0,.979-.444,1.378,1.378,0,0,0,.375-1l-.475-12.778a1.4,1.4,0,0,0-1.406-1.34h-.052l-.45.017a1.379,1.379,0,0,0-.817.329l-.008-.222.522-4.059a1.922,1.922,0,0,0-.47-1.523,1.963,1.963,0,0,0-1.466-.658L84.063,0h0a1.969,1.969,0,0,0-1.467.654,1.922,1.922,0,0,0-.473,1.526l.524,4.078c0,.006.007.01.008.015l-.008.222a1.382,1.382,0,0,0-.828-.336l-.45-.017a1.319,1.319,0,0,0-1.009.372,1.385,1.385,0,0,0-.447.968l-.475,12.778A1.4,1.4,0,0,0,80.788,21.7M102.6,6.754l.449-.017h.03a.8.8,0,0,1,.806.768l.475,12.778a.785.785,0,0,1-.216.572.8.8,0,0,1-.56.254l-.45.017a.781.781,0,0,1-.578-.213.793.793,0,0,1-.257-.556l-.475-12.778a.8.8,0,0,1,.776-.827M83.042,1.049A1.362,1.362,0,0,1,84.06.594h0l16.279.027a1.362,1.362,0,0,1,1.016.456,1.333,1.333,0,0,1,.325,1.056l-.492,3.824L83.207,5.925l-.492-3.82a1.33,1.33,0,0,1,.327-1.057m.2,5.5h17.926l.6,15.724a3.336,3.336,0,0,1-.952,2.475,3.408,3.408,0,0,1-2.463,1.037h-12.3a3.408,3.408,0,0,1-2.463-1.037,3.337,3.337,0,0,1-.952-2.476Zm-2.731.954a.788.788,0,0,1,.257-.556.768.768,0,0,1,.578-.213l.449.017a.8.8,0,0,1,.777.827l-.476,12.778a.793.793,0,0,1-.257.556.769.769,0,0,1-.578.213l-.45-.017a.8.8,0,0,1-.775-.827Z" transform="translate(27.851 4.751)"/>
+        <path id="패스_41535" data-name="패스 41535" class="cls-1" d="M50.319,21.7l.45.017h.053a1.387,1.387,0,0,0,.767-.254l-.03.785a3.917,3.917,0,0,0,1.119,2.91,4.005,4.005,0,0,0,2.895,1.22h12.3a4,4,0,0,0,2.895-1.22,3.923,3.923,0,0,0,1.12-2.91l-.03-.792a1.382,1.382,0,0,0,.776.261h.053l.45-.017a1.4,1.4,0,0,0,1.354-1.443L74.019,7.484a1.376,1.376,0,0,0-.447-.968,1.434,1.434,0,0,0-1.009-.372l-.45.017a1.388,1.388,0,0,0-.828.335l-.008-.221c0-.006.007-.01.008-.015l.525-4.078A1.923,1.923,0,0,0,71.336.654,1.969,1.969,0,0,0,69.869,0h0L53.587.027a1.963,1.963,0,0,0-1.466.658,1.922,1.922,0,0,0-.47,1.523l.523,4.059-.01.222a1.379,1.379,0,0,0-.818-.329L50.9,6.144a1.434,1.434,0,0,0-1.009.372,1.382,1.382,0,0,0-.449.968l-.474,12.778a1.372,1.372,0,0,0,.374,1,1.406,1.406,0,0,0,.979.444M72.134,6.754l.45-.017a.754.754,0,0,1,.578.213.788.788,0,0,1,.257.556L73.9,20.284a.8.8,0,0,1-.776.827l-.45.017a.777.777,0,0,1-.578-.213.793.793,0,0,1-.257-.556L71.358,7.581a.8.8,0,0,1,.776-.827M52.571,1.077A1.362,1.362,0,0,1,53.587.621L69.866.594h0a1.36,1.36,0,0,1,1.017.455,1.33,1.33,0,0,1,.327,1.057l-.492,3.82-17.984.032-.492-3.824a1.333,1.333,0,0,1,.325-1.056m.192,5.475H70.687l.6,15.724a3.336,3.336,0,0,1-.952,2.475,3.408,3.408,0,0,1-2.463,1.037h-12.3a3.405,3.405,0,0,1-2.462-1.037,3.332,3.332,0,0,1-.952-2.476Zm-2.723.954A.793.793,0,0,1,50.3,6.95a.759.759,0,0,1,.579-.213l.447.017a.8.8,0,0,1,.777.827l-.475,12.778a.788.788,0,0,1-.257.556.771.771,0,0,1-.578.213l-.45-.017a.8.8,0,0,1-.56-.254.783.783,0,0,1-.215-.572Z" transform="translate(21.769 4.751)"/>
+        <path id="패스_41536" data-name="패스 41536" class="cls-1" d="M42.673,78.028l-.451-.017a1.293,1.293,0,0,0-.829.258l.031-.79A3.924,3.924,0,0,0,40.3,74.57a4,4,0,0,0-2.893-1.219H25.1A4,4,0,0,0,22.21,74.57a3.924,3.924,0,0,0-1.122,2.91l.031.787a1.4,1.4,0,0,0-.821-.255l-.449.017a1.4,1.4,0,0,0-.979.444,1.377,1.377,0,0,0-.374,1l.475,12.777a1.376,1.376,0,0,0,.447.969,1.408,1.408,0,0,0,.957.372h.053l.449-.017a1.4,1.4,0,0,0,.817-.328l.008.221-.522,4.059a1.929,1.929,0,0,0,.471,1.524,1.966,1.966,0,0,0,1.466.657l16.279.027h0a1.965,1.965,0,0,0,1.466-.656,1.918,1.918,0,0,0,.473-1.525l-.524-4.078-.007-.013.008-.224a1.378,1.378,0,0,0,.827.336l.45.017h.052a1.4,1.4,0,0,0,1.406-1.341l.475-12.777a1.4,1.4,0,0,0-1.353-1.443m-21.256,14.7a.808.808,0,0,1-.561.254L20.407,93a.8.8,0,0,1-.835-.768L19.1,79.449a.787.787,0,0,1,.215-.572.8.8,0,0,1,.561-.254h0l.447-.017h.03a.8.8,0,0,1,.548.214.788.788,0,0,1,.257.556l.476,12.778a.788.788,0,0,1-.216.572m19,5.96a1.362,1.362,0,0,1-1.017.455h0l-16.279-.027a1.36,1.36,0,0,1-1.016-.456,1.332,1.332,0,0,1-.326-1.056l.492-3.824,17.984.032.492,3.82a1.33,1.33,0,0,1-.327,1.057m-.2-5.5H22.293l-.6-15.722a3.341,3.341,0,0,1,.954-2.476A3.406,3.406,0,0,1,25.1,73.945h12.3A3.409,3.409,0,0,1,39.87,74.98a3.345,3.345,0,0,1,.954,2.477Zm2.731-.954a.818.818,0,0,1-.835.768l-.45-.017a.807.807,0,0,1-.56-.254.783.783,0,0,1-.216-.572l.475-12.778a.788.788,0,0,1,.257-.556.8.8,0,0,1,.548-.214H42.2l.45.017h0a.8.8,0,0,1,.776.827Z" transform="translate(15.688 18.517)"/>
+        <path id="패스_41537" data-name="패스 41537" class="cls-1" d="M103.611,78.028l-.451-.017a1.282,1.282,0,0,0-.819.251l.03-.782a3.917,3.917,0,0,0-1.119-2.91,4,4,0,0,0-2.895-1.22h-12.3a4,4,0,0,0-2.895,1.22,3.922,3.922,0,0,0-1.12,2.909l.031.793a1.392,1.392,0,0,0-.831-.261l-.45.017a1.4,1.4,0,0,0-1.353,1.443l.476,12.777a1.381,1.381,0,0,0,.447.969,1.408,1.408,0,0,0,.957.372h.053l.449-.017a1.382,1.382,0,0,0,.828-.336l.008.222c0,.006-.007.01-.008.015l-.524,4.078a1.918,1.918,0,0,0,.473,1.525,1.966,1.966,0,0,0,1.467.656h0l16.279-.027a1.963,1.963,0,0,0,1.466-.658,1.922,1.922,0,0,0,.47-1.523l-.523-4.059.01-.222a1.379,1.379,0,0,0,.817.329l.45.017h.052a1.4,1.4,0,0,0,1.406-1.341l.475-12.777a1.4,1.4,0,0,0-1.353-1.443m-21.256,14.7a.808.808,0,0,1-.561.254L81.345,93a.8.8,0,0,1-.835-.768l-.476-12.778a.8.8,0,0,1,.776-.827h0l.449-.017h.03a.8.8,0,0,1,.548.214.788.788,0,0,1,.257.556l.476,12.778a.788.788,0,0,1-.216.572m19,5.931a1.362,1.362,0,0,1-1.016.456l-16.279.027h0a1.362,1.362,0,0,1-1.018-.455,1.33,1.33,0,0,1-.327-1.057l.492-3.82,17.984-.032.492,3.824a1.333,1.333,0,0,1-.325,1.056m-.192-5.475H83.242l-.6-15.724a3.336,3.336,0,0,1,.952-2.475,3.406,3.406,0,0,1,2.463-1.037h12.3a3.408,3.408,0,0,1,2.463,1.037,3.336,3.336,0,0,1,.951,2.476Zm2.723-.954a.806.806,0,0,1-.835.768l-.45-.017a.807.807,0,0,1-.56-.254.783.783,0,0,1-.216-.572l.475-12.778a.788.788,0,0,1,.257-.556.8.8,0,0,1,.548-.214h.029l.45.017h0a.8.8,0,0,1,.776.827Z" transform="translate(27.851 18.517)"/>
+        <path id="패스_41538" data-name="패스 41538" class="cls-1" d="M73.143,78.028l-.451-.017a1.287,1.287,0,0,0-.83.258l.031-.789a3.923,3.923,0,0,0-1.12-2.91,4,4,0,0,0-2.895-1.22h-12.3a4,4,0,0,0-2.895,1.22,3.922,3.922,0,0,0-1.12,2.909l.031.787a1.379,1.379,0,0,0-.821-.255l-.45.017a1.4,1.4,0,0,0-1.353,1.443l.475,12.777a1.378,1.378,0,0,0,.449.969,1.408,1.408,0,0,0,.957.372H50.9l.447-.017a1.379,1.379,0,0,0,.818-.329l.008.222-.522,4.059a1.922,1.922,0,0,0,.47,1.523,1.963,1.963,0,0,0,1.466.658l16.279.027h0a1.966,1.966,0,0,0,1.467-.656,1.918,1.918,0,0,0,.473-1.525l-.524-4.078c0-.006-.007-.009-.008-.015l.008-.222a1.378,1.378,0,0,0,.827.336l.451.017h.052a1.408,1.408,0,0,0,.957-.372,1.386,1.386,0,0,0,.447-.969l.475-12.777a1.4,1.4,0,0,0-1.352-1.443m-21.257,14.7a.808.808,0,0,1-.561.254L50.877,93a.8.8,0,0,1-.836-.768l-.475-12.778a.8.8,0,0,1,.776-.827h0l.449-.017h.03a.8.8,0,0,1,.548.214.788.788,0,0,1,.257.556L52.1,92.152a.788.788,0,0,1-.216.572m19,5.96a1.362,1.362,0,0,1-1.018.455h0l-16.279-.027a1.362,1.362,0,0,1-1.016-.456,1.333,1.333,0,0,1-.325-1.056l.492-3.824,17.984.032.492,3.82a1.33,1.33,0,0,1-.327,1.057m-.2-5.5H52.763l-.6-15.724a3.336,3.336,0,0,1,.952-2.475,3.406,3.406,0,0,1,2.463-1.037h12.3a3.406,3.406,0,0,1,2.463,1.037,3.337,3.337,0,0,1,.952,2.476Zm2.731-.954a.788.788,0,0,1-.257.556.809.809,0,0,1-.577.213l-.451-.017a.807.807,0,0,1-.56-.254.783.783,0,0,1-.216-.572l.476-12.778a.788.788,0,0,1,.257-.556.8.8,0,0,1,.548-.214h.029l.45.017h0a.8.8,0,0,1,.775.827Z" transform="translate(21.769 18.517)"/>
+      </g>
+    </g>
+    <g id="그룹_24742" data-name="그룹 24742" transform="translate(1722 620) rotate(-90)">
+      <g id="그룹_24735-2" data-name="그룹 24735" class="cls-7" transform="translate(-10 -4)">
+        <path id="패스_41532-2" data-name="패스 41532" class="cls-1" d="M99.156,24.831H20.73A20.738,20.738,0,0,0,0,45.532v4.694a20.738,20.738,0,0,0,20.73,20.7H99.156a20.739,20.739,0,0,0,20.731-20.7V45.532a20.739,20.739,0,0,0-20.731-20.7m20.228,25.394a20.236,20.236,0,0,1-20.228,20.2H20.73A20.236,20.236,0,0,1,.5,50.225V45.532a20.236,20.236,0,0,1,20.227-20.2H99.156a20.236,20.236,0,0,1,20.228,20.2Z" transform="translate(10.057 4.121)"/>
+        <path id="패스_41533-2" data-name="패스 41533" class="cls-1" d="M19.632,18.352l.376.014h.044a1.157,1.157,0,0,0,.643-.215l-.025.664a3.365,3.365,0,0,0,3.366,3.492H34.351a3.367,3.367,0,0,0,3.366-3.492l-.026-.669a1.154,1.154,0,0,0,.651.22h.044l.377-.014a1.179,1.179,0,0,0,1.135-1.22l-.4-10.8a1.179,1.179,0,0,0-1.179-1.133h-.043l-.377.014a1.158,1.158,0,0,0-.693.283L37.2,5.3l.006-.011.44-3.448A1.637,1.637,0,0,0,36.022,0h0L22.372.023a1.637,1.637,0,0,0-1.624,1.844L21.186,5.3l-.008.187a1.154,1.154,0,0,0-.685-.277l-.377-.014a1.107,1.107,0,0,0-.846.314,1.176,1.176,0,0,0-.375.818l-.4,10.8a1.176,1.176,0,0,0,1.134,1.22M37.92,5.711,38.3,5.7h.025a.675.675,0,0,1,.676.65l.4,10.8a.676.676,0,0,1-.651.7l-.377.014a.648.648,0,0,1-.485-.18.673.673,0,0,1-.215-.47l-.4-10.8a.675.675,0,0,1,.65-.7M21.52.91a1.139,1.139,0,0,1,.852-.385L36.018.5h0A1.134,1.134,0,0,1,37.148,1.78l-.412,3.23-15.077.027L21.246,1.8A1.136,1.136,0,0,1,21.52.91m.16,4.63H36.707l.507,13.294a2.864,2.864,0,0,1-2.863,2.97H24.036a2.864,2.864,0,0,1-2.863-2.97ZM19.4,6.347a.674.674,0,0,1,.675-.65H20.1l.376.014a.676.676,0,0,1,.652.7l-.4,10.8a.673.673,0,0,1-.215.47.645.645,0,0,1-.485.18l-.376-.014a.673.673,0,0,1-.65-.7Z" transform="translate(10.161 4.017)"/>
+        <path id="패스_41534-2" data-name="패스 41534" class="cls-1" d="M80.569,18.352l.377.014h.044a1.156,1.156,0,0,0,.652-.221l-.026.67a3.367,3.367,0,0,0,3.366,3.492H95.3a3.367,3.367,0,0,0,3.366-3.492l-.026-.664a1.157,1.157,0,0,0,.643.215h.044l.377-.014a1.179,1.179,0,0,0,1.135-1.22l-.4-10.8a1.179,1.179,0,0,0-1.179-1.133h-.043l-.377.014a1.151,1.151,0,0,0-.685.278L98.147,5.3l.437-3.432A1.637,1.637,0,0,0,96.962.023L83.315,0h0a1.636,1.636,0,0,0-1.626,1.844l.439,3.448c0,.005.006.008.007.013l-.007.188a1.153,1.153,0,0,0-.694-.284l-.377-.014a1.1,1.1,0,0,0-.846.314,1.176,1.176,0,0,0-.375.818l-.4,10.8a1.179,1.179,0,0,0,1.134,1.22M98.858,5.711l.376-.014h.025a.675.675,0,0,1,.676.65l.4,10.8a.676.676,0,0,1-.651.7l-.377.014a.651.651,0,0,1-.485-.18.673.673,0,0,1-.215-.47l-.4-10.8a.676.676,0,0,1,.651-.7M82.459.887A1.137,1.137,0,0,1,83.312.5h0L96.962.525A1.134,1.134,0,0,1,98.086,1.8l-.412,3.234L82.6,5.01l-.412-3.23a1.131,1.131,0,0,1,.275-.894m.167,4.654H97.653l.507,13.295A2.862,2.862,0,0,1,95.3,21.8H84.982a2.862,2.862,0,0,1-2.863-2.97Zm-2.29.806a.669.669,0,0,1,.215-.47.64.64,0,0,1,.485-.18l.376.014a.676.676,0,0,1,.652.7l-.4,10.8a.673.673,0,0,1-.215.47.642.642,0,0,1-.485.18l-.377-.014a.675.675,0,0,1-.65-.7Z" transform="translate(10.506 4.017)"/>
+        <path id="패스_41535-2" data-name="패스 41535" class="cls-1" d="M50.1,18.352l.377.014h.044a1.157,1.157,0,0,0,.643-.215l-.025.664A3.365,3.365,0,0,0,54.5,22.307H64.819a3.367,3.367,0,0,0,3.366-3.492l-.025-.67a1.152,1.152,0,0,0,.651.221h.044l.377-.014a1.18,1.18,0,0,0,1.135-1.22l-.4-10.8a1.167,1.167,0,0,0-.375-.818,1.2,1.2,0,0,0-.846-.314l-.377.014a1.158,1.158,0,0,0-.694.283l-.007-.187c0-.005.006-.008.007-.013l.44-3.448A1.637,1.637,0,0,0,66.49,0h0L52.84.023a1.637,1.637,0,0,0-1.623,1.844L51.655,5.3l-.008.188a1.151,1.151,0,0,0-.686-.278l-.376-.014a1.2,1.2,0,0,0-.846.314,1.173,1.173,0,0,0-.376.818l-.4,10.8a1.177,1.177,0,0,0,1.134,1.22M68.388,5.711l.377-.014a.629.629,0,0,1,.485.18.669.669,0,0,1,.215.47l.4,10.8a.676.676,0,0,1-.651.7l-.377.014a.648.648,0,0,1-.485-.18.673.673,0,0,1-.215-.47l-.4-10.8a.676.676,0,0,1,.651-.7m-16.4-4.8A1.138,1.138,0,0,1,52.84.525L66.487.5h0A1.135,1.135,0,0,1,67.617,1.78L67.2,5.01l-15.077.027L51.715,1.8a1.133,1.133,0,0,1,.273-.893m.161,4.629H67.175l.507,13.295A2.862,2.862,0,0,1,64.819,21.8H54.5a2.862,2.862,0,0,1-2.862-2.97Zm-2.283.806a.673.673,0,0,1,.215-.47.633.633,0,0,1,.486-.18l.375.014a.676.676,0,0,1,.652.7l-.4,10.8a.668.668,0,0,1-.215.47.643.643,0,0,1-.485.18l-.377-.014a.675.675,0,0,1-.65-.7Z" transform="translate(10.333 4.017)"/>
+        <path id="패스_41536-2" data-name="패스 41536" class="cls-1" d="M38.764,77.306l-.378-.014a1.078,1.078,0,0,0-.695.218l.026-.668a3.367,3.367,0,0,0-3.366-3.491H24.036a3.367,3.367,0,0,0-3.367,3.491l.026.666a1.166,1.166,0,0,0-.688-.216l-.376.014a1.177,1.177,0,0,0-1.134,1.22l.4,10.8a1.176,1.176,0,0,0,1.178,1.134h.044l.376-.014a1.164,1.164,0,0,0,.685-.277l.007.187-.437,3.432a1.637,1.637,0,0,0,1.624,1.844l13.647.023h0a1.637,1.637,0,0,0,1.625-1.844l-.439-3.448-.006-.011.007-.19a1.15,1.15,0,0,0,.693.284l.377.014h.043A1.18,1.18,0,0,0,39.5,89.329l.4-10.8a1.181,1.181,0,0,0-1.134-1.22M20.945,89.732a.675.675,0,0,1-.471.215l-.376.014a.658.658,0,0,1-.485-.18.669.669,0,0,1-.215-.47l-.4-10.8a.675.675,0,0,1,.651-.7h0l.375-.014h.025a.676.676,0,0,1,.675.651l.4,10.8a.669.669,0,0,1-.181.484m15.929,5.039a1.137,1.137,0,0,1-.853.385h0l-13.647-.023a1.135,1.135,0,0,1-1.125-1.278l.412-3.234,15.077.027.412,3.23a1.131,1.131,0,0,1-.275.894m-.166-4.654H21.679l-.507-13.294a2.864,2.864,0,0,1,2.864-2.97H34.351a2.862,2.862,0,0,1,2.863,2.97ZM39,89.311a.688.688,0,0,1-.7.65l-.377-.014a.674.674,0,0,1-.47-.215.665.665,0,0,1-.181-.484l.4-10.8a.676.676,0,0,1,.675-.651h.024l.377.014h0a.676.676,0,0,1,.651.7Z" transform="translate(10.161 4.326)"/>
+        <path id="패스_41537-2" data-name="패스 41537" class="cls-1" d="M99.7,77.306l-.378-.014a1.068,1.068,0,0,0-.687.212l.025-.661A3.365,3.365,0,0,0,95.3,73.351H84.982a3.367,3.367,0,0,0-3.366,3.491l.026.671a1.16,1.16,0,0,0-.7-.221l-.377.014a1.181,1.181,0,0,0-1.134,1.22l.4,10.8a1.176,1.176,0,0,0,1.178,1.134h.044l.376-.014a1.153,1.153,0,0,0,.694-.284l.007.188c0,.005-.006.008-.007.013l-.439,3.448a1.637,1.637,0,0,0,1.626,1.844h0l13.647-.023a1.637,1.637,0,0,0,1.623-1.844l-.438-3.432.008-.188a1.151,1.151,0,0,0,.685.278l.377.014h.043a1.18,1.18,0,0,0,1.179-1.134l.4-10.8a1.181,1.181,0,0,0-1.134-1.22M81.883,89.732a.675.675,0,0,1-.471.215l-.376.014a.675.675,0,0,1-.7-.65l-.4-10.8a.676.676,0,0,1,.651-.7h0l.376-.014h.025a.676.676,0,0,1,.675.651l.4,10.8a.669.669,0,0,1-.181.484m15.931,5.015a1.138,1.138,0,0,1-.852.386l-13.647.023h0a1.135,1.135,0,0,1-1.128-1.278l.412-3.23,15.077-.027.412,3.234a1.133,1.133,0,0,1-.273.893m-.161-4.629H82.626l-.507-13.295a2.862,2.862,0,0,1,2.863-2.969H95.3a2.86,2.86,0,0,1,2.862,2.97Zm2.283-.806a.678.678,0,0,1-.7.65l-.377-.014a.674.674,0,0,1-.47-.215.665.665,0,0,1-.181-.484l.4-10.8a.676.676,0,0,1,.675-.651H99.3l.377.014h0a.676.676,0,0,1,.651.7Z" transform="translate(10.506 4.326)"/>
+        <path id="패스_41538-2" data-name="패스 41538" class="cls-1" d="M69.234,77.306l-.378-.014a1.073,1.073,0,0,0-.7.218l.026-.667a3.367,3.367,0,0,0-3.366-3.492H54.505a3.367,3.367,0,0,0-3.366,3.491l.026.666a1.149,1.149,0,0,0-.688-.216l-.377.014a1.181,1.181,0,0,0-1.134,1.22l.4,10.8a1.178,1.178,0,0,0,1.179,1.134h.044l.375-.014a1.151,1.151,0,0,0,.686-.278l.007.188-.437,3.432a1.637,1.637,0,0,0,1.623,1.844l13.647.023h0a1.637,1.637,0,0,0,1.626-1.844l-.439-3.448c0-.005-.006-.008-.007-.013l.007-.188a1.15,1.15,0,0,0,.693.284l.378.014h.043a1.176,1.176,0,0,0,1.178-1.134l.4-10.8a1.179,1.179,0,0,0-1.133-1.22M51.414,89.732a.675.675,0,0,1-.471.215l-.375.014a.662.662,0,0,1-.486-.18.672.672,0,0,1-.215-.47l-.4-10.8a.676.676,0,0,1,.651-.7h0l.376-.014h.025a.676.676,0,0,1,.675.651l.4,10.8a.669.669,0,0,1-.181.484m15.93,5.039a1.138,1.138,0,0,1-.854.385h0l-13.647-.023a1.134,1.134,0,0,1-1.124-1.278l.412-3.234,15.077.027.412,3.23a1.131,1.131,0,0,1-.275.894m-.167-4.654H52.149l-.507-13.295a2.862,2.862,0,0,1,2.863-2.969H64.82a2.862,2.862,0,0,1,2.863,2.97Zm2.29-.806a.675.675,0,0,1-.7.65l-.378-.014a.674.674,0,0,1-.47-.215.665.665,0,0,1-.181-.484l.4-10.8a.676.676,0,0,1,.675-.651h.024l.377.014h0a.675.675,0,0,1,.65.7Z" transform="translate(10.333 4.326)"/>
+      </g>
+    </g>
+    <g id="그룹_24854" data-name="그룹 24854" transform="translate(1722 410) rotate(-90)">
+      <g id="그룹_24735-3" data-name="그룹 24735" class="cls-7" transform="translate(-10 -4)">
+        <path id="패스_41532-3" data-name="패스 41532" class="cls-1" d="M99.156,24.831H20.73A20.738,20.738,0,0,0,0,45.532v4.694a20.738,20.738,0,0,0,20.73,20.7H99.156a20.739,20.739,0,0,0,20.731-20.7V45.532a20.739,20.739,0,0,0-20.731-20.7m20.228,25.394a20.236,20.236,0,0,1-20.228,20.2H20.73A20.236,20.236,0,0,1,.5,50.225V45.532a20.236,20.236,0,0,1,20.227-20.2H99.156a20.236,20.236,0,0,1,20.228,20.2Z" transform="translate(10.057 4.121)"/>
+        <path id="패스_41533-3" data-name="패스 41533" class="cls-1" d="M19.632,18.352l.376.014h.044a1.157,1.157,0,0,0,.643-.215l-.025.664a3.365,3.365,0,0,0,3.366,3.492H34.351a3.367,3.367,0,0,0,3.366-3.492l-.026-.669a1.154,1.154,0,0,0,.651.22h.044l.377-.014a1.179,1.179,0,0,0,1.135-1.22l-.4-10.8a1.179,1.179,0,0,0-1.179-1.133h-.043l-.377.014a1.158,1.158,0,0,0-.693.283L37.2,5.3l.006-.011.44-3.448A1.637,1.637,0,0,0,36.022,0h0L22.372.023a1.637,1.637,0,0,0-1.624,1.844L21.186,5.3l-.008.187a1.154,1.154,0,0,0-.685-.277l-.377-.014a1.107,1.107,0,0,0-.846.314,1.176,1.176,0,0,0-.375.818l-.4,10.8a1.176,1.176,0,0,0,1.134,1.22M37.92,5.711,38.3,5.7h.025a.675.675,0,0,1,.676.65l.4,10.8a.676.676,0,0,1-.651.7l-.377.014a.648.648,0,0,1-.485-.18.673.673,0,0,1-.215-.47l-.4-10.8a.675.675,0,0,1,.65-.7M21.52.91a1.139,1.139,0,0,1,.852-.385L36.018.5h0A1.134,1.134,0,0,1,37.148,1.78l-.412,3.23-15.077.027L21.246,1.8A1.136,1.136,0,0,1,21.52.91m.16,4.63H36.707l.507,13.294a2.864,2.864,0,0,1-2.863,2.97H24.036a2.864,2.864,0,0,1-2.863-2.97ZM19.4,6.347a.674.674,0,0,1,.675-.65H20.1l.376.014a.676.676,0,0,1,.652.7l-.4,10.8a.673.673,0,0,1-.215.47.645.645,0,0,1-.485.18l-.376-.014a.673.673,0,0,1-.65-.7Z" transform="translate(10.161 4.017)"/>
+        <path id="패스_41534-3" data-name="패스 41534" class="cls-1" d="M80.569,18.352l.377.014h.044a1.156,1.156,0,0,0,.652-.221l-.026.67a3.367,3.367,0,0,0,3.366,3.492H95.3a3.367,3.367,0,0,0,3.366-3.492l-.026-.664a1.157,1.157,0,0,0,.643.215h.044l.377-.014a1.179,1.179,0,0,0,1.135-1.22l-.4-10.8a1.179,1.179,0,0,0-1.179-1.133h-.043l-.377.014a1.151,1.151,0,0,0-.685.278L98.147,5.3l.437-3.432A1.637,1.637,0,0,0,96.962.023L83.315,0h0a1.636,1.636,0,0,0-1.626,1.844l.439,3.448c0,.005.006.008.007.013l-.007.188a1.153,1.153,0,0,0-.694-.284l-.377-.014a1.1,1.1,0,0,0-.846.314,1.176,1.176,0,0,0-.375.818l-.4,10.8a1.179,1.179,0,0,0,1.134,1.22M98.858,5.711l.376-.014h.025a.675.675,0,0,1,.676.65l.4,10.8a.676.676,0,0,1-.651.7l-.377.014a.651.651,0,0,1-.485-.18.673.673,0,0,1-.215-.47l-.4-10.8a.676.676,0,0,1,.651-.7M82.459.887A1.137,1.137,0,0,1,83.312.5h0L96.962.525A1.134,1.134,0,0,1,98.086,1.8l-.412,3.234L82.6,5.01l-.412-3.23a1.131,1.131,0,0,1,.275-.894m.167,4.654H97.653l.507,13.295A2.862,2.862,0,0,1,95.3,21.8H84.982a2.862,2.862,0,0,1-2.863-2.97Zm-2.29.806a.669.669,0,0,1,.215-.47.64.64,0,0,1,.485-.18l.376.014a.676.676,0,0,1,.652.7l-.4,10.8a.673.673,0,0,1-.215.47.642.642,0,0,1-.485.18l-.377-.014a.675.675,0,0,1-.65-.7Z" transform="translate(10.506 4.017)"/>
+        <path id="패스_41535-3" data-name="패스 41535" class="cls-1" d="M50.1,18.352l.377.014h.044a1.157,1.157,0,0,0,.643-.215l-.025.664A3.365,3.365,0,0,0,54.5,22.307H64.819a3.367,3.367,0,0,0,3.366-3.492l-.025-.67a1.152,1.152,0,0,0,.651.221h.044l.377-.014a1.18,1.18,0,0,0,1.135-1.22l-.4-10.8a1.167,1.167,0,0,0-.375-.818,1.2,1.2,0,0,0-.846-.314l-.377.014a1.158,1.158,0,0,0-.694.283l-.007-.187c0-.005.006-.008.007-.013l.44-3.448A1.637,1.637,0,0,0,66.49,0h0L52.84.023a1.637,1.637,0,0,0-1.623,1.844L51.655,5.3l-.008.188a1.151,1.151,0,0,0-.686-.278l-.376-.014a1.2,1.2,0,0,0-.846.314,1.173,1.173,0,0,0-.376.818l-.4,10.8a1.177,1.177,0,0,0,1.134,1.22M68.388,5.711l.377-.014a.629.629,0,0,1,.485.18.669.669,0,0,1,.215.47l.4,10.8a.676.676,0,0,1-.651.7l-.377.014a.648.648,0,0,1-.485-.18.673.673,0,0,1-.215-.47l-.4-10.8a.676.676,0,0,1,.651-.7m-16.4-4.8A1.138,1.138,0,0,1,52.84.525L66.487.5h0A1.135,1.135,0,0,1,67.617,1.78L67.2,5.01l-15.077.027L51.715,1.8a1.133,1.133,0,0,1,.273-.893m.161,4.629H67.175l.507,13.295A2.862,2.862,0,0,1,64.819,21.8H54.5a2.862,2.862,0,0,1-2.862-2.97Zm-2.283.806a.673.673,0,0,1,.215-.47.633.633,0,0,1,.486-.18l.375.014a.676.676,0,0,1,.652.7l-.4,10.8a.668.668,0,0,1-.215.47.643.643,0,0,1-.485.18l-.377-.014a.675.675,0,0,1-.65-.7Z" transform="translate(10.333 4.017)"/>
+        <path id="패스_41536-3" data-name="패스 41536" class="cls-1" d="M38.764,77.306l-.378-.014a1.078,1.078,0,0,0-.695.218l.026-.668a3.367,3.367,0,0,0-3.366-3.491H24.036a3.367,3.367,0,0,0-3.367,3.491l.026.666a1.166,1.166,0,0,0-.688-.216l-.376.014a1.177,1.177,0,0,0-1.134,1.22l.4,10.8a1.176,1.176,0,0,0,1.178,1.134h.044l.376-.014a1.164,1.164,0,0,0,.685-.277l.007.187-.437,3.432a1.637,1.637,0,0,0,1.624,1.844l13.647.023h0a1.637,1.637,0,0,0,1.625-1.844l-.439-3.448-.006-.011.007-.19a1.15,1.15,0,0,0,.693.284l.377.014h.043A1.18,1.18,0,0,0,39.5,89.329l.4-10.8a1.181,1.181,0,0,0-1.134-1.22M20.945,89.732a.675.675,0,0,1-.471.215l-.376.014a.658.658,0,0,1-.485-.18.669.669,0,0,1-.215-.47l-.4-10.8a.675.675,0,0,1,.651-.7h0l.375-.014h.025a.676.676,0,0,1,.675.651l.4,10.8a.669.669,0,0,1-.181.484m15.929,5.039a1.137,1.137,0,0,1-.853.385h0l-13.647-.023a1.135,1.135,0,0,1-1.125-1.278l.412-3.234,15.077.027.412,3.23a1.131,1.131,0,0,1-.275.894m-.166-4.654H21.679l-.507-13.294a2.864,2.864,0,0,1,2.864-2.97H34.351a2.862,2.862,0,0,1,2.863,2.97ZM39,89.311a.688.688,0,0,1-.7.65l-.377-.014a.674.674,0,0,1-.47-.215.665.665,0,0,1-.181-.484l.4-10.8a.676.676,0,0,1,.675-.651h.024l.377.014h0a.676.676,0,0,1,.651.7Z" transform="translate(10.161 4.326)"/>
+        <path id="패스_41537-3" data-name="패스 41537" class="cls-1" d="M99.7,77.306l-.378-.014a1.068,1.068,0,0,0-.687.212l.025-.661A3.365,3.365,0,0,0,95.3,73.351H84.982a3.367,3.367,0,0,0-3.366,3.491l.026.671a1.16,1.16,0,0,0-.7-.221l-.377.014a1.181,1.181,0,0,0-1.134,1.22l.4,10.8a1.176,1.176,0,0,0,1.178,1.134h.044l.376-.014a1.153,1.153,0,0,0,.694-.284l.007.188c0,.005-.006.008-.007.013l-.439,3.448a1.637,1.637,0,0,0,1.626,1.844h0l13.647-.023a1.637,1.637,0,0,0,1.623-1.844l-.438-3.432.008-.188a1.151,1.151,0,0,0,.685.278l.377.014h.043a1.18,1.18,0,0,0,1.179-1.134l.4-10.8a1.181,1.181,0,0,0-1.134-1.22M81.883,89.732a.675.675,0,0,1-.471.215l-.376.014a.675.675,0,0,1-.7-.65l-.4-10.8a.676.676,0,0,1,.651-.7h0l.376-.014h.025a.676.676,0,0,1,.675.651l.4,10.8a.669.669,0,0,1-.181.484m15.931,5.015a1.138,1.138,0,0,1-.852.386l-13.647.023h0a1.135,1.135,0,0,1-1.128-1.278l.412-3.23,15.077-.027.412,3.234a1.133,1.133,0,0,1-.273.893m-.161-4.629H82.626l-.507-13.295a2.862,2.862,0,0,1,2.863-2.969H95.3a2.86,2.86,0,0,1,2.862,2.97Zm2.283-.806a.678.678,0,0,1-.7.65l-.377-.014a.674.674,0,0,1-.47-.215.665.665,0,0,1-.181-.484l.4-10.8a.676.676,0,0,1,.675-.651H99.3l.377.014h0a.676.676,0,0,1,.651.7Z" transform="translate(10.506 4.326)"/>
+        <path id="패스_41538-3" data-name="패스 41538" class="cls-1" d="M69.234,77.306l-.378-.014a1.073,1.073,0,0,0-.7.218l.026-.667a3.367,3.367,0,0,0-3.366-3.492H54.505a3.367,3.367,0,0,0-3.366,3.491l.026.666a1.149,1.149,0,0,0-.688-.216l-.377.014a1.181,1.181,0,0,0-1.134,1.22l.4,10.8a1.178,1.178,0,0,0,1.179,1.134h.044l.375-.014a1.151,1.151,0,0,0,.686-.278l.007.188-.437,3.432a1.637,1.637,0,0,0,1.623,1.844l13.647.023h0a1.637,1.637,0,0,0,1.626-1.844l-.439-3.448c0-.005-.006-.008-.007-.013l.007-.188a1.15,1.15,0,0,0,.693.284l.378.014h.043a1.176,1.176,0,0,0,1.178-1.134l.4-10.8a1.179,1.179,0,0,0-1.133-1.22M51.414,89.732a.675.675,0,0,1-.471.215l-.375.014a.662.662,0,0,1-.486-.18.672.672,0,0,1-.215-.47l-.4-10.8a.676.676,0,0,1,.651-.7h0l.376-.014h.025a.676.676,0,0,1,.675.651l.4,10.8a.669.669,0,0,1-.181.484m15.93,5.039a1.138,1.138,0,0,1-.854.385h0l-13.647-.023a1.134,1.134,0,0,1-1.124-1.278l.412-3.234,15.077.027.412,3.23a1.131,1.131,0,0,1-.275.894m-.167-4.654H52.149l-.507-13.295a2.862,2.862,0,0,1,2.863-2.969H64.82a2.862,2.862,0,0,1,2.863,2.97Zm2.29-.806a.675.675,0,0,1-.7.65l-.378-.014a.674.674,0,0,1-.47-.215.665.665,0,0,1-.181-.484l.4-10.8a.676.676,0,0,1,.675-.651h.024l.377.014h0a.675.675,0,0,1,.65.7Z" transform="translate(10.333 4.326)"/>
+      </g>
+    </g>
+    <g id="그룹_24739" data-name="그룹 24739" transform="translate(1751.253 898)">
+      <g id="그룹_24738" data-name="그룹 24738" class="cls-8">
+        <path id="패스_41539" data-name="패스 41539" class="cls-1" d="M97.5,0H16.463a16.463,16.463,0,0,0,0,32.926H97.5a.25.25,0,0,0,.25-.25V.25A.25.25,0,0,0,97.5,0m-.25,32.426H16.463A15.963,15.963,0,0,1,16.463.5H97.247Z"/>
+        <path id="패스_41540" data-name="패스 41540" class="cls-1" d="M62.8,45.083c-.017-.109-.026-.217-.047-.325l0-.007a9.705,9.705,0,0,0-19.067.007v.007a9.709,9.709,0,1,0,19.247,1.81c0-.31-.017-.624-.048-.938-.018-.188-.051-.37-.08-.554m-9.584-7.717A9.224,9.224,0,0,1,62.251,44.8a9.2,9.2,0,0,1-18.07-.01,9.224,9.224,0,0,1,9.034-7.426m8.641,12.371c-.051.14-.1.283-.154.419a9.21,9.21,0,0,1-17.695-3.581c0-.037,0-.074,0-.11,0-.1.011-.2.015-.3a9.71,9.71,0,0,0,18.381.009c.006.135.02.267.02.4a9.168,9.168,0,0,1-.415,2.736c-.045.145-.1.283-.155.424"/>
+        <path id="패스_41541" data-name="패스 41541" class="cls-1" d="M30.079,45.12c-.018-.121-.029-.241-.051-.362l-.006-.009a9.587,9.587,0,1,0,.18,1.825c0-.306-.018-.618-.049-.933-.017-.176-.048-.348-.074-.521m-9.59-7.755A9.225,9.225,0,0,1,29.525,44.8a9.2,9.2,0,0,1-18.07-.012,9.224,9.224,0,0,1,9.034-7.425m8.487,12.792a9.21,9.21,0,0,1-17.694-3.583c0-.049,0-.1,0-.147,0-.089.01-.176.014-.265a9.71,9.71,0,0,0,18.381.012c.006.134.021.267.021.4a9.165,9.165,0,0,1-.725,3.58"/>
+        <path id="패스_41542" data-name="패스 41542" class="cls-1" d="M94.934,45.12c-.018-.121-.029-.241-.051-.362l-.006-.009a9.612,9.612,0,1,0,.179,1.825c0-.306-.017-.618-.048-.933-.017-.176-.048-.348-.074-.521m-9.59-7.755A9.226,9.226,0,0,1,94.38,44.8a9.2,9.2,0,0,1-18.07-.012,9.223,9.223,0,0,1,9.034-7.425m8.487,12.792a9.21,9.21,0,0,1-17.695-3.583c0-.049,0-.1,0-.147,0-.089.01-.176.014-.265a9.71,9.71,0,0,0,18.381.012c.006.134.02.267.02.4a9.164,9.164,0,0,1-.724,3.58"/>
+      </g>
+    </g>
+    <text id="탕비실" class="cls-4" transform="translate(1688 928)"><tspan x="-24.39" y="0">탕비실</tspan></text>
+  </g>
+</svg>

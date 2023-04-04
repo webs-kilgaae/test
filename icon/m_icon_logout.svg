@@ -1,0 +1,16 @@
+<svg id="m_icon_logout" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_20260" data-name="사각형 20260" width="24.674" height="24.58" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_24873" data-name="그룹 24873" transform="translate(8.044 8.11)">
+    <path id="패스_41915" data-name="패스 41915" d="M352.362,0V7.864h-.524V.527h-12.68V19.021h12.68V11.683h.524v7.861H338.635V0Z" transform="translate(-336.116 2.516)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1"/>
+    <g id="그룹_24872" data-name="그룹 24872">
+      <g id="그룹_24871" data-name="그룹 24871" clip-path="url(#clip-path)">
+        <path id="패스_41916" data-name="패스 41916" d="M9.766,433.615h0a.261.261,0,0,1,0-.369l1.576-1.576H.261a.261.261,0,1,1,0-.522H11.342l-1.576-1.576a.261.261,0,0,1,.369-.369l2.042,2.042a.232.232,0,0,1,0,.328l-2.042,2.042a.261.261,0,0,1-.369,0" transform="translate(9.91 -419.119)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+  <rect id="사각형_20261" data-name="사각형 20261" width="40" height="40" fill="none"/>
+</svg>

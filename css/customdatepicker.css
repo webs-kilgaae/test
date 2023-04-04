@@ -1,0 +1,8 @@
+.calenderBox .daterangepicker {
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    float: left;
+    width: auto !important;
+    margin-top: 0;
+}

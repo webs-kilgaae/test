@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #406eff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="icon_time" transform="translate(-1565 -242)">
+    <path id="패스_41597" data-name="패스 41597" class="cls-1" d="M5,0H31a5,5,0,0,1,5,5V31a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(1565 242)"/>
+    <g id="그룹_24804" data-name="그룹 24804" transform="translate(919.938 -281.73)">
+      <path id="패스_41648" data-name="패스 41648" class="cls-2" d="M684.475,542.383v6.541h5.45" transform="translate(-21.327 -7.27)"/>
+      <path id="패스_41649" data-name="패스 41649" class="cls-2" d="M663.062,551.814a10.083,10.083,0,1,1,10.084-10.083A10.094,10.094,0,0,1,663.062,551.814Z"/>
+    </g>
+  </g>
+</svg>

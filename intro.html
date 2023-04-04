@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>[DKBMC]모바일좌석예약시스템</title>
+        <link rel="stylesheet" type="text/css" href="./css/style.css" />
+        <link rel="stylesheet" type="text/css" href="./css/datepicker.css" />
+        <link rel="stylesheet" type="text/css" href="./css/customdatepicker.css" />
+
+        <script defer type="text/javascript" src="./js/jquery-latest.min.js"></script>
+        <script defer type="text/javascript" src="./js/moment-2.18.1.js"></script>
+        <script defer type="text/javascript" src="./js/daterangepicker.js"></script>
+        <script defer type="text/javascript" src="./js/customRangeDate.js"></script>
+        <script defer type="text/javascript" src="./js/ui.js"></script>
+    </head>
+
+    <body>
+        <div class="wrap bgGy">
+            <!-- Header-->
+            <section class="header">
+                <div class="inner">
+                    <div class="header-block">
+                        <!-- pc, mo로그인( mo비로그인시 클래스 non 추가) -->
+                        <a class="logoBox" href="#none" title="메인페이지로 이동">
+                            <h1 class="hidden">모바일 좌석 예약</h1>
+                        </a>
+                        <!-- //pc, mo로그인( mo비로그인시 클래스 non 추가) -->
+
+                        <nav class="userbox">
+                            <a href="#none" class="link name"><i class="i_user"></i><span class="txt">홍길동사원</span></a>
+                            <!-- 알림버튼 활성화시 on 추가-->
+                            <button type="button" class="link noti"><span class="txt">알림</span><span class="num">4</span></button>
+                            <button type="button" data-popup="popup" class="link rese"><span class="txt">예약 내역</span><span class="num">2</span></button>
+                            <a href="#none" class="link logout"><span class="txt">로그아웃</span></a>
+                        </nav>
+
+                        <!-- 알림창 활성화시 active 추가 -->
+                        <div class="noti-alert">
+                            <strong class="noti-alert__tit">알림</strong>
+                            <ul class="list scroll-y">
+                                <!-- 중요 내용시 클래스 immin 추가 -->
+                                <li class="item immin">
+                                    <strong class="tit">이용 종료</strong>
+                                    <span class="con">좌석 이용 가능한 날짜가 <strong class="emp">1일</strong> 남았습니다.</span>
+                                    <span class="date">2023-02-27</span>
+                                </li>
+                                <li class="item immin">
+                                    <strong class="tit">이용 종료</strong>
+                                    <span class="con">좌석 이용 가능한 날짜가 <strong class="emp">2일</strong> 남았습니다.</span>
+                                    <span class="date">2023-02-27</span>
+                                </li>
+                                <li class="item immin">
+                                    <strong class="tit">이용 종료</strong>
+                                    <span class="con">좌석 이용 가능한 날짜가 <strong class="emp">3일</strong> 남았습니다.</span>
+                                    <span class="date">2023-02-27</span>
+                                </li>
+                                <li class="item">
+                                    <strong class="tit">기간 연장</strong>
+                                    <span class="con">이용 좌석의 기간 연장이 가능합니다.</span>
+                                    <span class="date">2023-02-27</span>
+                                </li>
+                                <li class="item">
+                                    <strong class="tit">예약 취소</strong>
+                                    <span class="con">이용 좌석의 체크인 실패로 <strong class="emp">예약취소</strong> 되었습니다.</span>
+                                    <span class="date">2023-02-27</span>
+                                </li>
+                                <li class="item">
+                                    <strong class="tit">기간 연장</strong>
+                                    <span class="con">이용 좌석의 기간 연장이 가능합니다.</span>
+                                    <span class="date">2023-02-27</span>
+                                </li>
+                                <li class="item">
+                                    <strong class="tit">예약 취소</strong>
+                                    <span class="con">이용 좌석의 체크인 실패로 <strong class="emp">예약취소</strong> 되었습니다.</span>
+                                    <span class="date">2023-02-27</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- //알림창 -->
+                    </div>
+                </div>
+            </section>
+            <!-- //Header -->
+
+            <!-- container -->
+            <div class="container">
+                <div class="inner">
+                    <div class="office">
+                        <div class="content">
+                            <h2 class="h2">오피스 선택</h2>
+                            <div class="officeBox">
+                                <!-- 석수빌딩 -->
+                                <a href="#none" class="office__link">
+                                    <strong class="tit">석수빌딩 3층</strong>
+                                    <div class="txts">
+                                        <span class="txt">이용가능 좌석</span>
+                                        <div class="seat">
+                                            <strong class="remin">4</strong>&nbsp;/
+                                            <span class="total">35</span>
+                                        </div>
+                                    </div>
+                                </a>
+                                <!-- //석수빌딩 -->
+                                <!-- 성심빌딩 1층 -->
+                                <a href="#none" class="office__link">
+                                    <strong class="tit">성심빌딩 1층</strong>
+                                    <div class="txts">
+                                        <span class="txt">이용가능 좌석</span>
+                                        <div class="seat">
+                                            <strong class="remin">6</strong>&nbsp;/
+                                            <span class="total">45</span>
+                                        </div>
+                                    </div>
+                                </a>
+                                <!-- //성심빌딩 1층 -->
+                                <!-- 성심빌딩 3층 -->
+                                <a href="#none" class="office__link">
+                                    <strong class="tit">성심빌딩 3층</strong>
+                                    <div class="txts">
+                                        <span class="txt">이용가능 좌석</span>
+                                        <div class="seat">
+                                            <strong class="remin">12</strong>&nbsp;/
+                                            <span class="total">49</span>
+                                        </div>
+                                    </div>
+                                </a>
+                                <!-- //성심빌딩 3층 -->
+                                <!-- 성심빌딩 4층 -->
+                                <a href="#none" class="office__link">
+                                    <strong class="tit">성심빌딩 4층</strong>
+                                    <div class="txts">
+                                        <span class="txt">이용가능 좌석</span>
+                                        <div class="seat">
+                                            <!-- 좌석수가 없을 시 zero 추가 -->
+                                            <strong class="remin zero">0</strong>&nbsp;/
+                                            <span class="total">50</span>
+                                        </div>
+                                    </div>
+                                </a>
+                                <!-- //성심빌딩 4층 -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- //container -->
+
+            <!-- footer -->
+            <div class="footer">
+                <div class="footer-info">
+                    <span class="copyright">Copyright ⓒ 2021 DK BMC Co.,Ltd</span>
+                </div>
+            </div>
+            <!-- //footer -->
+        </div>
+    </body>
+</html>
