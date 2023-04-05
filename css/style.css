@@ -377,7 +377,7 @@
   content: "";
   display: block;
   background-color: #6995ff;
-  width: 34px;
+  width: 36px;
   height: 36px;
   position: absolute;
   top: 50%;
@@ -399,7 +399,7 @@
   content: "";
   display: block;
   background-color: #6995ff;
-  width: 34px;
+  width: 36px;
   height: 36px;
   position: absolute;
   top: 50%;
@@ -1571,7 +1571,7 @@
     height: 45px;
   }
   .aside-calender .daterangepicker .calendar td.in-range::before {
-    width: 104%;
+    width: 106%;
     height: 45px;
     left: -50%;
     top: 51%;
