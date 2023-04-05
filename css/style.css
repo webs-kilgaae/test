@@ -1572,15 +1572,15 @@
   }
   .aside-calender .daterangepicker .calendar td.in-range::before {
     width: 106%;
-    height: 45px;
+    height: 45.2px;
     left: -50%;
-    top: 51%;
+    top: 50%;
   }
   .aside-calender .daterangepicker .calendar td.start-date + .in-range::before {
-    width: 104%;
-    height: 45px;
+    width: 106%;
+    height: 45.2px;
     left: -50%;
-    top: 51%;
+    top: 50%;
   }
   .aside-info {
     height: 5rem;
